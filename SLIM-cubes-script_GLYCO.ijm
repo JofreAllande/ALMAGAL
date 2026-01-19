@@ -7,7 +7,7 @@
 
 // To execute it, this scripts needs:
 // Cubes to be analyzed: MAD_CUB_CROP_G318.9480-00.1969A_spw0_7MTM2TM1_jointdeconv.image.fits and MAD_CUB_CROP_G318.9480-00.1969A_spw1_7MTM2TM1_jointdeconv.image.fits
-// Moment 0, 1 and 2 of the CH3OCHO transition at 218.298 GHz: moment0.fits, moment1.fits, moment2.fits
+// Moment 0, 1 and 2 of the CH2(OH)CHO transition at 220.055 GHz: moment0.fits, moment1.fits, moment2.fits
 
 // The script performs the analysis pixel by pixel in a selected region of interest (ROI) defined below.
 // The analysis is done only in those pixels with intensity in the moment0 map above a threshold level of the signa-to-noise ratio (>3 reccommended).

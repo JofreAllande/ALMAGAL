@@ -42,11 +42,6 @@ path="YOUR PATH";
 cube1=""+path+"MAD_CUB_CROP_G318.9480-00.1969A_spw0_7MTM2TM1_jointdeconv.image.fits";
 cube2=""+path+"MAD_CUB_CROP_G318.9480-00.1969A_spw1_7MTM2TM1_jointdeconv.image.fits";
 
-// Indicate the SLIM product in which you will work
-
-//slimProduct=""+path+""+molecule+".cub.slim";
-slimProduct=""+path+"CH3OCHO.cub.slim";
-
 // ****************************************************************************************************************
 // ****************************************************************************************************************
 
